@@ -1,5 +1,5 @@
 
-## Hello, I am Julius Ayang! 👋👋👋👋
+## Julius Ayang! 👋👋👋👋
 
 <a href="https://twitter.com/juliusaayang">   <img align="left"    alt="Julius' Twitter" width="50px"    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>  <a href="https://www.linkedin.com/in/julius-ayang-3ab46b204">   <img    align="left" alt="Julius' Linkdein" width="50px"    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"    /> </a>  <a href="https://github.com/juliusayang3">    <img align="left"    alt="Julius' Github" width="50px"    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"    /> </a> </a> <a href="https://www.facebook.com/ayang.julius.71">   <img    align="left" alt="Julius' Facebook" width="50px"    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"    /> </a> 
 
