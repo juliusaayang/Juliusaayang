@@ -1,27 +1,21 @@
 
-## Julius Ayang! 👋
+### Hey there 👋, I'm Julius ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-<a href="https://twitter.com/juliusaayang">   <img align="left"    alt="Julius' Twitter" width="50px"    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>  <a href="https://www.linkedin.com/in/julius-ayang-3ab46b204">   <img    align="left" alt="Julius' Linkdein" width="50px"    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"    /> </a>  <a href="https://github.com/juliusayang3">    <img align="left"    alt="Julius' Github" width="50px"    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"    /> </a> </a> <a href="https://www.facebook.com/ayang.julius.71">   <img    align="left" alt="Julius' Facebook" width="50px"    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"    /> </a> 
-
-<br/>
-<br/>
+Mobile App Developer (Flutter/Dart) 
 
 
-[![Twitter: juliusaayang](https://img.shields.io/twitter/follow/juliusaayang?style=social)](https://twitter.com/juliusaayang) [![Linkedin: juliusayang3ab46b204](https://img.shields.io/badge/-juliusayang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/julius-ayang-3ab46b204)](https://www.linkedin.com/mwlite/in/julius-ayang-3ab46b204) [![GitHub iampawan](https://img.shields.io/github/followers/juliusayang3?label=follow&style=social)](https://github.com/juliusayang3) 
+<hr>
 
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=juliusayang3&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusayang3&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=juliusayang3&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
 
-**Languages and Tools:**  
+<hr>
 
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> Flutter</code> <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> Dart</code> <code> <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Java</code>  
-<br/>
-<be/>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliusayang3&show_icons=true&theme=dracula&line_height=27" alt="Julius' github stats"/>
-</a>
-<br/>
+## 🏆 GitHub Trophies
 
-<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=juliusayang3&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+<hr>
