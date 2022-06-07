@@ -7,15 +7,15 @@ Mobile App Developer (Flutter/Dart)
 <hr>
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=juliusayang3&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusayang3&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=juliusayang3&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-stats.vercel.app/api?username=juliusaayang&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusaayang&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=juliusaayang&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
 <hr>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juliusayang3&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
+[![trophy](https://github-profile-trophy.vercel.app/?username=juliusaayang&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 
 <hr>
