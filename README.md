@@ -14,6 +14,10 @@ Mobile App Developer (Flutter/Dart)
 
 <hr>
 
+## 🌐Socials
+<!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ethiel97)  -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julius-ayang-3ab46b204) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/juliusaayang)
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=juliusaayang&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
