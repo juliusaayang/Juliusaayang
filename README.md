@@ -1,7 +1,7 @@
 
 ### Hey there 👋, I'm Julius ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Mobile App Developer (Flutter/Dart) 
+Mobile Engineer (Flutter/Dart) 
 
 
 <hr>
